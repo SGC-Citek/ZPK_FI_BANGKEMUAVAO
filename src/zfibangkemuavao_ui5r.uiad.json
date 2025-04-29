@@ -1,0 +1,34 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "Bảng kê thuế mua vào",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_UI5_REPO_UIAD"
+  },
+  "ui5AppDetails": {
+    "appId": "zfibangkemuavao"
+  },
+  "navigation": {
+    "targetMappingId": "UI5R_D43A1D125C01949920D486152364A70218C192D9_TM",
+    "semanticObject": "ZAP02",
+    "action": "report",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": [
+    {
+      "id": "UI5R_D43A1D125C01949920D486152364A70218C192D9_AL",
+      "tileType": "static",
+      "isDefault": true,
+      "standard": {
+        "title": "Bảng kê thuế mua vào",
+        "subtitle": "ZAP02"
+      }
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+@EndUserText.label: 'Bảng kê mua vào definition'
+define service ZFI_BANGKEMUAVAO {
+  expose ZFI_I_BANGKEMUAVAO;
+  expose ZFI_I_THUEMUAVAO_CUSTOM;
+}
